@@ -1,4 +1,5 @@
 def Guess_the_number_now():
+    print()
     print('Hello User, welcome to guess the number game.\n')
     print('Rules are as follows:\nGuess a number\nThe computer will tell you if you have to go lower or higher to reach the number.')
     print('Best of luck')
